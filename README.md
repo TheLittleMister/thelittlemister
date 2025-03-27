@@ -1,16 +1,14 @@
-## Hi there 👋
+```
+  ☀️        .        .   *        .       🌙        .   *        .       *        .        .   *        .       🌍        .   
+    *       .       .       .   *        .       🌟       .       .       .   *       .       .       .       .   *        .   
+  .       🌟  .       .       *    .       *       .       .       .       .       🌟  .       .       *    .       🌕       .
+✨        .       .       .       *       .       .       ✨        .       .       .       *       .       .       .        .
+    .       *       .       .       🪐       .    .       *       .       .       .       .  🚀     *       .       *       . 
+* .        .       .       .       *       .       .       ⭐        .       .       .       *       .       *       .        .
+```
 
-<!--
-**thelittlemister/thelittlemister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 You are landing on my old GitHub account.
 
-Here are some ideas to get you started:
+Glad you found this note, I already fixed up my rocket and took off with all my repositories. By the time you read this, I will have already landed at my new destination! 🧑‍🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 New coordinates: [GitHub](https://github.com/franklinyulian)
